@@ -1,0 +1,5 @@
+deploy_contract ccca nathan 0 0 /Users/sky/gjc_install/contract_call_contract/contracta GJC true
+
+deploy_contract cccb nathan 0 0 /Users/sky/gjc_install/contract_call_contract/contractb GJC true
+
+call_contract beita ccca null hicontract "{\"act_id\":77}" GJC true
